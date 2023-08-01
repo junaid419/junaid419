@@ -3,11 +3,11 @@
 
 <img align="right" width="400px" src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
 
-- 🔭 I’m currently working on **School website**
+- 🔭 I’m currently working on **Adventure website**
 
 - 🌱 I’m currently learning **Bachlor's of Computer Science**
 
-- 💬 Ask me about **Graphic Designing**
+- 💬 Ask me about **Graphic Designing, Frontend development**
 
 - 📫 How to reach me **junaid8020650@gmail.com**
 
