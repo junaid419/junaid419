@@ -1,4 +1,4 @@
-<img src="../desktop/this pc/downloads/screenshot (127)">
+<img src="https://github.com/junaid419/banner/blob/main/Screenshot%20(127).png">
 <h1 align="center">Hi 👋, I'm Junaid Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="[[https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e67696](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw07iFsoFhvZEpyeeLVnOEtu&ust=1694406449565000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICFkIaan4EDFQAAAAAdAAAAABAE)6](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)">
