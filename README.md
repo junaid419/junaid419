@@ -1,7 +1,7 @@
 <img src="https://github.com/junaid419/banner/blob/main/Screenshot%20(127).png">
 <h1 align="center">Hi 👋, I'm Junaid Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="![image](https://github.com/junaid419/junaid419/assets/113684892/76d1ab07-eb25-4842-8b89-64a1b3a39c82)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid419&label=Profile%20views&color=0e75b6&style=flat" alt="junaid419" /> </p>
