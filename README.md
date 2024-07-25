@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Graphic designing and frontend development**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1tS458wnJut4DEgOy78NJ8dBNxyOOix1F](https://drive.google.com/drive/folders/1tS458wnJut4DEgOy78NJ8dBNxyOOix1F)
+- 📄 Know about my experiences https://drive.google.com/file/d/1MFXgwzDDH4PZTDoQ5cg-KjlSPPN6SQLE/view?usp=sharing
 
 - ⚡ Fun fact **I think I am funny**
 
